@@ -1,0 +1,9 @@
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
